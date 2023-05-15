@@ -1,0 +1,17 @@
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\BestApp.exe
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\BestApp.deps.json
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\BestApp.runtimeconfig.json
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\BestApp.dll
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\ref\BestApp.dll
+D:\bskracic\2RP1\BestApp\BestApp\bin\Debug\net6.0-windows\BestApp.pdb
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.csproj.AssemblyReference.cache
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.Form1.resources
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.csproj.GenerateResource.cache
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.AssemblyInfoInputs.cache
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.AssemblyInfo.cs
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.csproj.CoreCompileInputs.cache
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.dll
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\ref\BestApp.dll
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.pdb
+D:\bskracic\2RP1\BestApp\BestApp\obj\Debug\net6.0-windows\BestApp.genruntimeconfig.cache
