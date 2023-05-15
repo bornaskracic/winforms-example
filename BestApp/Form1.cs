@@ -14,5 +14,8 @@ namespace BestApp
 
         private void ShowMessage()
             => MessageBox.Show(DateTime.Now.ToLongTimeString(), "Data");
+
+        private void button2_Click(object sender, EventArgs e)
+            => ShowMessage();
     }
 }
